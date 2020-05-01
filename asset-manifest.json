@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/joinder/static/css/main.a6ddc4f8.chunk.css",
+    "main.js": "/joinder/static/js/main.3dd917a3.chunk.js",
+    "main.js.map": "/joinder/static/js/main.3dd917a3.chunk.js.map",
+    "runtime-main.js": "/joinder/static/js/runtime-main.3c05d86c.js",
+    "runtime-main.js.map": "/joinder/static/js/runtime-main.3c05d86c.js.map",
+    "static/css/2.8a16c9dc.chunk.css": "/joinder/static/css/2.8a16c9dc.chunk.css",
+    "static/js/2.a6d3ffd3.chunk.js": "/joinder/static/js/2.a6d3ffd3.chunk.js",
+    "static/js/2.a6d3ffd3.chunk.js.map": "/joinder/static/js/2.a6d3ffd3.chunk.js.map",
+    "index.html": "/joinder/index.html",
+    "precache-manifest.bcac04db632c0ccc75404cda17bf2cd8.js": "/joinder/precache-manifest.bcac04db632c0ccc75404cda17bf2cd8.js",
+    "service-worker.js": "/joinder/service-worker.js",
+    "static/css/2.8a16c9dc.chunk.css.map": "/joinder/static/css/2.8a16c9dc.chunk.css.map",
+    "static/css/main.a6ddc4f8.chunk.css.map": "/joinder/static/css/main.a6ddc4f8.chunk.css.map",
+    "static/js/2.a6d3ffd3.chunk.js.LICENSE.txt": "/joinder/static/js/2.a6d3ffd3.chunk.js.LICENSE.txt",
+    "static/media/CheckIconLight.svg": "/joinder/static/media/CheckIconLight.69f4dcf7.svg",
+    "static/media/Heebo-Bold.ttf": "/joinder/static/media/Heebo-Bold.ede6fdf4.ttf",
+    "static/media/Heebo-ExtraBold.ttf": "/joinder/static/media/Heebo-ExtraBold.14a92790.ttf",
+    "static/media/Heebo-Light.ttf": "/joinder/static/media/Heebo-Light.ce8730e7.ttf",
+    "static/media/Heebo-Medium.ttf": "/joinder/static/media/Heebo-Medium.6c57263d.ttf",
+    "static/media/Heebo-Regular.ttf": "/joinder/static/media/Heebo-Regular.56936776.ttf",
+    "static/media/Heebo-Thin.ttf": "/joinder/static/media/Heebo-Thin.0f806743.ttf",
+    "static/media/Support.svg": "/joinder/static/media/Support.5d607bfa.svg",
+    "static/media/attachIcon.svg": "/joinder/static/media/attachIcon.28f85e0a.svg",
+    "static/media/all.css": "/joinder/static/media/fa-solid-900.ec763292.svg",
+    "static/media/info_blue.svg": "/joinder/static/media/info_blue.fd28466e.svg",
+    "static/media/sendIcon.svg": "/joinder/static/media/sendIcon.14c9151f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c05d86c.js",
+    "static/css/2.8a16c9dc.chunk.css",
+    "static/js/2.a6d3ffd3.chunk.js",
+    "static/css/main.a6ddc4f8.chunk.css",
+    "static/js/main.3dd917a3.chunk.js"
+  ]
+}
