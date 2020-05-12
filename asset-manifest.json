@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/joinder/static/css/main.a6ddc4f8.chunk.css",
-    "main.js": "/joinder/static/js/main.3dd917a3.chunk.js",
-    "main.js.map": "/joinder/static/js/main.3dd917a3.chunk.js.map",
+    "main.css": "/joinder/static/css/main.06625679.chunk.css",
+    "main.js": "/joinder/static/js/main.82d7651b.chunk.js",
+    "main.js.map": "/joinder/static/js/main.82d7651b.chunk.js.map",
     "runtime-main.js": "/joinder/static/js/runtime-main.3c05d86c.js",
     "runtime-main.js.map": "/joinder/static/js/runtime-main.3c05d86c.js.map",
-    "static/css/2.8a16c9dc.chunk.css": "/joinder/static/css/2.8a16c9dc.chunk.css",
-    "static/js/2.a6d3ffd3.chunk.js": "/joinder/static/js/2.a6d3ffd3.chunk.js",
-    "static/js/2.a6d3ffd3.chunk.js.map": "/joinder/static/js/2.a6d3ffd3.chunk.js.map",
+    "static/css/2.9a65fc3d.chunk.css": "/joinder/static/css/2.9a65fc3d.chunk.css",
+    "static/js/2.04c3d94e.chunk.js": "/joinder/static/js/2.04c3d94e.chunk.js",
+    "static/js/2.04c3d94e.chunk.js.map": "/joinder/static/js/2.04c3d94e.chunk.js.map",
     "index.html": "/joinder/index.html",
-    "precache-manifest.bcac04db632c0ccc75404cda17bf2cd8.js": "/joinder/precache-manifest.bcac04db632c0ccc75404cda17bf2cd8.js",
+    "precache-manifest.a886f6631b3bc3fc71673279b27aaaf0.js": "/joinder/precache-manifest.a886f6631b3bc3fc71673279b27aaaf0.js",
     "service-worker.js": "/joinder/service-worker.js",
-    "static/css/2.8a16c9dc.chunk.css.map": "/joinder/static/css/2.8a16c9dc.chunk.css.map",
-    "static/css/main.a6ddc4f8.chunk.css.map": "/joinder/static/css/main.a6ddc4f8.chunk.css.map",
-    "static/js/2.a6d3ffd3.chunk.js.LICENSE.txt": "/joinder/static/js/2.a6d3ffd3.chunk.js.LICENSE.txt",
+    "static/css/2.9a65fc3d.chunk.css.map": "/joinder/static/css/2.9a65fc3d.chunk.css.map",
+    "static/css/main.06625679.chunk.css.map": "/joinder/static/css/main.06625679.chunk.css.map",
+    "static/js/2.04c3d94e.chunk.js.LICENSE.txt": "/joinder/static/js/2.04c3d94e.chunk.js.LICENSE.txt",
     "static/media/CheckIconLight.svg": "/joinder/static/media/CheckIconLight.69f4dcf7.svg",
     "static/media/Heebo-Bold.ttf": "/joinder/static/media/Heebo-Bold.ede6fdf4.ttf",
     "static/media/Heebo-ExtraBold.ttf": "/joinder/static/media/Heebo-ExtraBold.14a92790.ttf",
@@ -29,9 +29,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3c05d86c.js",
-    "static/css/2.8a16c9dc.chunk.css",
-    "static/js/2.a6d3ffd3.chunk.js",
-    "static/css/main.a6ddc4f8.chunk.css",
-    "static/js/main.3dd917a3.chunk.js"
+    "static/css/2.9a65fc3d.chunk.css",
+    "static/js/2.04c3d94e.chunk.js",
+    "static/css/main.06625679.chunk.css",
+    "static/js/main.82d7651b.chunk.js"
   ]
 }
